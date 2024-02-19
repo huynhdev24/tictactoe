@@ -1,5 +1,31 @@
 # Getting Started with Create React App
 
+## Demo TicTacToe
+
+![image](https://github.com/huynhdev24/tictactoe/assets/124909303/d64daa02-6643-4700-bc64-a7c4f1599546)
+![image](https://github.com/huynhdev24/tictactoe/assets/124909303/9fc28463-96db-4b77-8bd2-fec53c04f97c)
+
+## Structure
+
+📦src
+ ┣ 📂components
+ ┃ ┣ 📂Board
+ ┃ ┃ ┗ 📜index.js
+ ┃ ┣ 📂Game
+ ┃ ┃ ┗ 📜index.js
+ ┃ ┗ 📂Square
+ ┃ ┃ ┗ 📜index.js
+ ┣ 📂utils
+ ┃ ┗ 📜index.js
+ ┣ 📜App.css
+ ┣ 📜App.js
+ ┣ 📜App.test.js
+ ┣ 📜index.css
+ ┣ 📜index.js
+ ┣ 📜logo.svg
+ ┣ 📜reportWebVitals.js
+ ┗ 📜setupTests.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
